@@ -1,16 +1,177 @@
-# React + Vite
+# 🌐 Tanvi Shinde - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <b>Personal Portfolio Website built with React.js and Vite</b>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  Showcasing my skills, projects, education, achievements, and experience as a Data Science Engineer.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 **Portfolio Website:**  
+https://portfolio-k9wue0fkx-tanvishinde09s-projects.vercel.app/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 About This Project
+
+This is my personal portfolio website developed using **React.js** and **Vite** to showcase my journey as a **Data Science Engineer**.
+
+The website presents my technical skills, Machine Learning projects, education, achievements, and professional profile through a modern and responsive user interface.
+
+The main objective of this project is to create an interactive platform where recruiters and visitors can learn about my skills, projects, and experience.
+
+---
+
+## ✨ Features
+
+- ✅ Modern and responsive UI design
+- ✅ Animated hero section
+- ✅ Smooth animations and transitions
+- ✅ About me section
+- ✅ Technical skills showcase
+- ✅ Machine Learning project showcase
+- ✅ Education and achievements section
+- ✅ Contact form integration using EmailJS
+- ✅ Social media links
+- ✅ Resume download option
+- ✅ Mobile-friendly design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Libraries
+
+- Framer Motion
+- React Icons
+- EmailJS
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+## 📂 Project Structure
+portfolio/
+│
+├── public/
+│ └── assets/
+│
+├── src/
+│ │
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Hero.jsx
+│ │ ├── About.jsx
+│ │ ├── Skills.jsx
+│ │ ├── Projects.jsx
+│ │ ├── Experience.jsx
+│ │ ├── Contact.jsx
+│ │ └── Footer.jsx
+│ │
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+---
+
+## 📸 Website Sections
+
+## 🏠 Home Section
+
+A visually attractive landing section with:
+- Introduction
+- Profile information
+- Animated elements
+- Navigation links
+
+---
+
+## 👩‍💻 About Section
+
+Contains information about my background, interests, and career goals in the field of Data Science and Machine Learning.
+
+---
+
+## 🧠 Skills Section
+
+Technical skills included:
+
+- Python
+- C
+- C++
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Power BI
+- Machine Learning
+
+---
+
+## 📊 Projects Section
+
+Showcases my Data Science and Machine Learning projects with:
+
+- Project description
+- Technologies used
+- GitHub repository links
+- Live demo links
+
+---
+
+## 🎓 Education Section
+
+### Bachelor of Technology (B.Tech)
+**Computer Science Engineering - Data Science**
+
+D.Y. Patil Agriculture and Technical University
+
+
+### Diploma
+
+**Information Technology**
+
+Government Polytechnic Tasgaon
+
+---
+
+## 🏆 Achievements
+
+- Built Machine Learning based projects
+- Developed responsive web applications
+- Created interactive dashboards
+- Participated in technical learning activities
+
+---
+
+## ⚙️ Installation & Setup
+
+### Clone the repository
+
+```bash
+git clone https://github.com/tanvishinde09/portfolio.git
