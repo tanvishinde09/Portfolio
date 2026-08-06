@@ -69,103 +69,37 @@ The main objective of this project is to create an interactive platform where re
 ---
 
 ## 📂 Project Structure
+
+```text
 portfolio/
 │
 ├── public/
-│ └── assets/
+│   └── assets/
 │
 ├── src/
-│ │
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Hero.jsx
-│ │ ├── About.jsx
-│ │ ├── Skills.jsx
-│ │ ├── Projects.jsx
-│ │ ├── Experience.jsx
-│ │ ├── Contact.jsx
-│ │ └── Footer.jsx
-│ │
-│ ├── App.jsx
-│ ├── App.css
-│ ├── index.css
-│ └── main.jsx
+│   │
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
 │
 ├── package.json
+├── package-lock.json
 ├── vite.config.js
+├── eslint.config.js
+├── index.html
 └── README.md
-
-
----
-
-## 📸 Website Sections
-
-## 🏠 Home Section
-
-A visually attractive landing section with:
-- Introduction
-- Profile information
-- Animated elements
-- Navigation links
-
----
-
-## 👩‍💻 About Section
-
-Contains information about my background, interests, and career goals in the field of Data Science and Machine Learning.
-
----
-
-## 🧠 Skills Section
-
-Technical skills included:
-
-- Python
-- C
-- C++
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-- Power BI
-- Machine Learning
-
----
-
-## 📊 Projects Section
-
-Showcases my Data Science and Machine Learning projects with:
-
-- Project description
-- Technologies used
-- GitHub repository links
-- Live demo links
-
----
-
-## 🎓 Education Section
-
-### Bachelor of Technology (B.Tech)
-**Computer Science Engineering - Data Science**
-
-D.Y. Patil Agriculture and Technical University
-
-
-### Diploma
-
-**Information Technology**
-
-Government Polytechnic Tasgaon
-
----
-
-## 🏆 Achievements
-
-- Built Machine Learning based projects
-- Developed responsive web applications
-- Created interactive dashboards
-- Participated in technical learning activities
+```
 
 ---
 
@@ -175,3 +109,28 @@ Government Polytechnic Tasgaon
 
 ```bash
 git clone https://github.com/tanvishinde09/portfolio.git
+```
+
+### Navigate to project directory
+
+```bash
+cd portfolio
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run development server
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```inde09/portfolio.git
