@@ -30,6 +30,11 @@ const projects = [
       "Regression-based Machine Learning project to predict house prices using feature engineering and model evaluation techniques.",
     technologies:
       "Python, Machine Learning, Pandas, Scikit-Learn",
+    github:
+      "https://github.com/tanvishinde09/House_Price_Prediction",
+    demo:
+      "https://housepriceprediction-09.streamlit.app/"
+
   },
 ];
 
